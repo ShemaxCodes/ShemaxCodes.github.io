@@ -1,11 +1,11 @@
 # Site settings
-author: Jashema Panapa
-title: 
+author: Jashema P
+title: So, What Made Me Choose Software Engineering?
 header-img: img/home-bg.png
 email: jcpanapa@gmail.com
-copyright_name: Jashema Panapa
+copyright_name: Jashema P
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The actual dream 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ShemaxCodes
