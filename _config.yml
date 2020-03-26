@@ -1,11 +1,11 @@
 # Site settings
 author: Jashema P
-title: So, What Made Me Choose Software Engineering?
+title: From Teacher to Software Engineer 
 header-img: img/home-bg.png
 email: jcpanapa@gmail.com
 copyright_name: Jashema P
 description: > # this means to ignore newlines until "baseurl:"
-  The actual dream 
+  The journey of coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ShemaxCodes
