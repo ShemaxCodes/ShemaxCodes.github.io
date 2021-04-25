@@ -31,4 +31,9 @@ This will assign the first user within the role array with the integer of one in
 
 # Setting up Roles in the User Model
 
-
+In your User model, place the following code within the class, above any methods.
+```
+enum role: {student: 1, teacher: 2, admin: 3}
+```
+You can rename these roles to fit the titles of your application's users.
+[:student, :teacher, :admin] are the names we’re using to reference the user role. Since this is an array, and the index starts at 0, standard role would have been stored as 0 in the database. However, because we added the small change to our role column in the database, we can refer to our roles starting with the number 1. 
