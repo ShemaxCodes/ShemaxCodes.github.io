@@ -10,5 +10,10 @@ Sometimes in an application, you will have multiple users, if not most times. Wh
 
 # The Enum Role Method
 
-Enum is a Ruby class that allow us to use integers to represent our various users (user roles). 
+One way to achieve this is by assigning a role to your users and using Ruby's enum class. Enum is a Ruby class that allow us to use integers to represent our various users (user roles). 
+In my project, I have users with three different roles: student, teacher, and administrator. These users have different restrictions as far as what they can and can't access within the app.
+
+# The Process
+We can begin setting up the role attribute for the User model by setting up the migration.
+```rails g migration AddRoleToUsers role:integer```
 
