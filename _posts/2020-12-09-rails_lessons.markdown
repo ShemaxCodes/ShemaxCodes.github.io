@@ -14,4 +14,4 @@ As much as I'd love to be able to code an entire app with no errors on the first
 Rails Console
 The rails console has become my best friend. I suppose it's safe to say that errors and the console have made me a better developer than I was before beginning this project. Progress. There was a moment when I was stuck on an error in my controller action and felt I exhausted all of my resources.  My instructor and cohorts gave me a suggestion and using the rails console helped me progress in understanding. I was beginning to see that not only was my code not working, but I can see why it isn't working. Building a project is different from completing labs. You really get your hands dirty when building a project and those mistakes/errors assist in learning. As a result, I spent a lot of time in the rails console, checking the database, routes, and debugging. 
 
-I am going to continue building this project and the learning experiences gained during the process..
+I am going to continue building this project and the learning experiences gained during the process.
